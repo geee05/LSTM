@@ -1,2 +1,2 @@
 # LSTM
- LSTM short for long short-term memory networks is a popular recurrent neural networks (RNNs) used in the field of Deep Learning. This project focuses on the analysis and forecast of Amazon stock 
+LSTM (long short-term memory) networks is a popular recurrent neural networks (RNNs) used in the field of Deep Learning. These models are capable of learning long-term dependencies, especially in sequence prediction problems. It allows the network to remember the context of the model while discarding the irrelevant information. This project focuses on the analyzing the stock information of Amazon and forecast its value for subsequent days. 
